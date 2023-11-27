@@ -1,5 +1,5 @@
 # Ruby on Tails
-A quasi tail-call optimiser for Ruby
+*A quasi tail-call optimiser for Ruby*
 
 ## How to use it
 
